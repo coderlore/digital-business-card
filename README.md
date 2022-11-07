@@ -1,28 +1,26 @@
-# co1a746589c191eabfc9186cc
+# Digital Business Card
+A personalized digital business card
 
-Quick start:
+**Link to project:** 
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
 
-## Development
+## How It's Made:
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+**Tech used:** React
 
-```
-$ yarn watch # npm run watch
-```
+## Optimizations
 
-## About Scrimba
+TBD
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Lessons Learned:
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+TBD
 
-Happy Coding!
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Weather App:** https://coderlore.github.io/weather-app/
+
+**Todoist Clone:** https://coderlore.github.io/todo/
+
+**Kimo's Brewery Finder:** https://kimo-brewery-finder.netlify.app/
