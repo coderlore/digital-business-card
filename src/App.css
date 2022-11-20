@@ -1,16 +1,49 @@
-body {
-  background-image: url(./assets/profile.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
-}
-
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
+  font-family: Inter, sans-serif;
+}
+
+.profile {
+  height: 320px;
+  min-width: 45%;
+}
+
+.header {
+  width: 100%;
+  background: #F5F5F5;;
+}
+
+.name {
+  margin-bottom: 0px;
+  padding: 20px 70px 6px 70px;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2B283A;
+}
+
+.title {
+  margin: 0px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  color: #F47D27;
+}
+
+.website {
+  width: 100%;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #4A4E74;
+  display: flex;
+  justify-content: center;
 }
 
 .logo {
