@@ -9,10 +9,10 @@ export default function Footer() {
     return (
         <div className="footer">
             <ul>
-                <li className="footer-icons"><FontAwesomeIcon icon={faSquareTwitter} /></li>
-                <li className="footer-icons"><FontAwesomeIcon icon={faSquareFacebook} /></li>
-                <li className="footer-icons"><FontAwesomeIcon icon={faSquareInstagram} /></li>
-                <li className="footer-icons"><FontAwesomeIcon icon={faSquareGithub} /></li>
+                <a href="https://twitter.com/coderlore"><li className="footer-icons"><FontAwesomeIcon icon={faSquareTwitter} /></li></a>
+                <a href="#"><li className="footer-icons"><FontAwesomeIcon icon={faSquareFacebook} /></li></a>
+                <a href="#"><li className="footer-icons"><FontAwesomeIcon icon={faSquareInstagram} /></li></a>
+                <a href="https://github.com/coderlore"><li className="footer-icons"><FontAwesomeIcon icon={faSquareGithub} /></li></a>
             </ul>
         </div>
     )
