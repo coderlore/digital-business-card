@@ -2,7 +2,7 @@
 A personalized digital business card
 
 **Link to project:** 
-
+[Digital Business Card](https://mobile-business-card.netlify.app/)
 
 ## How It's Made:
 
@@ -10,11 +10,11 @@ A personalized digital business card
 
 ## Optimizations
 
-TBD
+This site was built for mobile. Future optimization would be to make it web responsive. 
 
 ## Lessons Learned:
 
-TBD
+Built project using basic React to get some practice in.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
